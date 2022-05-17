@@ -19,7 +19,7 @@ This project was put together using create-react-app (CRA). You will not need to
 - [x]  CD into the project base directory `cd React-Components-Insta-Clone`
 - [x]  Download project dependencies by running `npm install`
 - [x]  Start up the app using `npm start`
-- [ ]  Push commits: git push origin `main`.
+- [x]  Push commits: git push origin `main`.
 
 ### Task 2a: MVP
 
